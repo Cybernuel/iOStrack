@@ -1,4 +1,4 @@
-Overland GPS Tracker for iOS
+iOS GPS Tracker for iOS
 ============================
 
 This app tracks your location in the background and sends the data to a server of your choosing. The app tracks:
